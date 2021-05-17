@@ -1,0 +1,30 @@
+body {
+  background-color: lightblue;
+  padding: 10px;
+}
+header {
+  font-size: xx-large;
+  font-weight: 800;
+  text-align: center;
+  padding: 20px;
+  
+}
+label {
+  font-size: large;
+}
+h1 {
+  color: black;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 10px;
+}
+li {
+  color: white;
+  display:inline-block;
+  width: 80px;
+  padding: 10px;
+  margin: 5px;
+  background-color:purple;
+}
